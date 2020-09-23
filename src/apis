@@ -1,0 +1,3 @@
+featured: "https://api.themoviedb.org/3/discover/movie?sort_by=popluarity.desc&
+api_key=04c3571a5ee918f014970002a008b1&
+page=1"
